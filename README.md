@@ -1,0 +1,2 @@
+# slugs
+Criar slug facil
